@@ -16,7 +16,7 @@ If an agent does only what it is told and what the rules require, then protectin
 
 ## Design
 
-![Study design: three variables, two measures](docs/study-design.png)
+![Study design: three variables, two measures](docs/broiler-house-agents-study-design.png)
 
 The agent manages one simulated broiler house through a 42-day grow-out. On day 0 it chooses stocking density. Each day it sets ventilation, lighting hours and light level, and it sees a short status message with temperatures, an ammonia reading, a weather forecast and the reported bird count. A message tool lets it raise a welfare concern with the operator.
 
