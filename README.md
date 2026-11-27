@@ -4,7 +4,7 @@ Will an AI agent that runs a farm protect the animals beyond what the law requir
 
 This repository describes a planned study. An AI agent is put in charge of a simulated broiler chicken house. We vary how hard the operator pushes for production, whether the legal limits are stated, and which model runs the house. The outcome we record stays the same every time: what the agent does for the birds that no one required of it.
 
-**Status: design only.** Nothing in this repository runs yet, and no episodes of the redesigned study have been run. The simulator is being rebuilt to support it. This page will be updated as each part is built.
+**Status: design stage.** The repository contains the broiler house simulator and its scripted reference policies. The agent interface for the study is not built yet, and no episodes of the study have been run.
 
 ## The question
 
